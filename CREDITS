@@ -1,8 +1,9 @@
 WHAT IF YOUR ALARM CLOCK COULD REWIND THE DAY? — third-party assets and licences
 
 Voices
+  Narrator: Kokoro-82M text-to-speech (hexgrad), voice bm_fable, run offline through kokoro-onnx — Apache License 2.0.
   Microsoft neural voices, generated through Microsoft's online speech service with edge-tts (rany2/edge-tts, GPL-3.0 tool):
-  en-US-BrianMultilingualNeural (narrator), en-US-AvaMultilingualNeural (Remi), en-US-AnaNeural (Pip),
+  en-US-AvaMultilingualNeural (Remi), en-US-AnaNeural (Pip),
   en-GB-RyanNeural (the watchmaker), en-GB-ThomasNeural (the interviewer), en-GB-LibbyNeural (the radio).
   Microsoft's terms apply to the voices; check them before commercial use.
   All voices are synthetic. Speech check: faster-whisper base.en (MIT).

@@ -119,7 +119,7 @@ export const VO = [
   { id: 'w04', t: 364.0, dlg: true, who: WA, sub: 'Because you keep the day you wanted, and only try to change the ending.' },
   { id: 'w05', t: 370.6, dlg: true, who: WA, sub: 'A day isn’t a recording, miss. It’s a promise. You only get to choose who it’s for.' },
   { id: 'n21', t: 379.6, sub: 'Every night, your brain replays the day by itself. In rats, scientists watched brain cells repeat the routes of the day while the animals slept.' },
-  { id: 'n22', t: 389.4, sub: 'Replaying is the easy part. Choosing is hard.' },
+  { id: 'n22', t: 389.0, sub: 'Replaying is the easy part. Choosing is hard.' },
   { id: 'r16', t: 393.2, dlg: true, who: RE, sub: 'This is the last Monday I can fix.' },
   { id: 'w06', t: 397.0, dlg: true, who: WA, sub: 'Then don’t fix it. Live it.' },
   { id: 'k04', t: 403.0, dlg: true, who: PI, sub: 'Remi! Will you watch me ride at the park? Six o’clock!' },

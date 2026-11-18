@@ -13,7 +13,7 @@ NAME=alarm-rewind
 FPS=30
 cd "$LIB"
 "$PY" core/audio/sampler.py --need "$HERE/score.py"
-# 1. voices (Microsoft neural voices via edge-tts) + speech-to-text check
+# 1. voices (narrator: Kokoro bm_fable, offline; the rest: Microsoft neural voices via edge-tts) + speech-to-text check
 "$PY" "$HERE/voices.py"                                  # Microsoft edge-tts (needs the internet)
 "$PY" core/tts/asr_check.py "$HERE/lines.json" "$HERE/voices"
 # 2. events (voice times, foley cues) from the page
@@ -30,5 +30,5 @@ node core/render/video.mjs "$HERE" --fps $FPS --workers 2 --out "$HERE/out/video
 # 5. master: -14 LUFS, no grain (pixel art)
 sh core/render/mux.sh "$HERE/out/video.mp4" "$HERE/out/mix.wav" "$HERE/$NAME.mp4" $FPS 0
 # 6. poster
-ffmpeg -v error -y -ss 528.0 -i "$HERE/$NAME.mp4" -frames:v 1 -q:v 2 "$HERE/poster.jpg"
+ffmpeg -v error -y -ss 542.0 -i "$HERE/$NAME.mp4" -frames:v 1 -q:v 2 "$HERE/poster.jpg"
 echo "done: $HERE/$NAME.mp4"

@@ -40,4 +40,4 @@ repeated morning, the same framing each time so the loop is felt.
 
 A pizzicato clock ticks under every countdown; the clock motif (A-D-E-F, minor; A-D-E-F#, major) on glockenspiel;
 Pip's own tune on flute; a "rewind" (swell, a falling glissando, a bright chord) at every turn of the knob; heartbeats
-and climbing tremolo into the headlights, then hard silence. Voices: Microsoft neural voices (see CREDITS).
+and climbing tremolo into the headlights, then hard silence. Voices: the narrator is Kokoro bm_fable; the characters are Microsoft neural voices (see CREDITS).

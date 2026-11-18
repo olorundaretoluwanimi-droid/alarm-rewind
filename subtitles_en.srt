@@ -3,15 +3,15 @@
 REMI: Pip! Pip!
 
 2
-00:00:08,050 --> 00:00:15,830
+00:00:08,050 --> 00:00:15,228
 At fourteen minutes past six on a Monday evening, Remi Hale would have given anything to have that morning back.
 
 3
-00:00:18,050 --> 00:00:20,443
+00:00:18,050 --> 00:00:21,165
 She was about to get it.
 
 4
-00:00:39,250 --> 00:00:45,050
+00:00:39,250 --> 00:00:44,543
 Twelve hours earlier. Remi had one job that Monday. Be on time.
 
 5
@@ -31,7 +31,7 @@ PIP: Remi! Will you watch me ride at the park? Six o’clock!
 REMI: Can’t, Pip. Big day. Sorry.
 
 9
-00:01:17,050 --> 00:01:21,496
+00:01:17,050 --> 00:01:21,518
 She missed the tram. Then she missed the next one.
 
 10
@@ -51,11 +51,11 @@ REMI: I… um. I’m sorry. I don’t know.
 INTERVIEWER: We’ll be in touch.
 
 14
-00:01:46,050 --> 00:01:48,669
+00:01:46,050 --> 00:01:49,137
 They would not be in touch.
 
 15
-00:01:52,250 --> 00:01:58,847
+00:01:52,250 --> 00:01:58,381
 On the way home it rained, and Remi ducked into a clock shop she had never noticed before.
 
 16
@@ -75,11 +75,11 @@ REMI: How much?
 WATCHMAKER: Whatever you think a day is worth.
 
 20
-00:02:28,250 --> 00:02:38,450
+00:02:28,250 --> 00:02:38,275
 One of the first alarm clocks in America was built in 1787. It could only ring at four in the morning, the hour its maker got up for work.
 
 21
-00:02:38,450 --> 00:02:43,273
+00:02:38,450 --> 00:02:42,741
 Remi’s could do something stranger. She turned the knob.
 
 22
@@ -91,15 +91,15 @@ RADIO: Seven o’clock, Monday morning. Rain by six.
 REMI: Monday. Again.
 
 24
-00:02:56,050 --> 00:03:03,450
+00:02:56,050 --> 00:03:03,169
 About two in three people say they have felt déjà vu at least once. Remi was feeling it on purpose.
 
 25
-00:03:03,450 --> 00:03:12,141
+00:03:03,450 --> 00:03:11,183
 Your body keeps its own clock: about twenty thousand nerve cells, just above the place where your optic nerves cross.
 
 26
-00:03:13,250 --> 00:03:21,148
+00:03:13,250 --> 00:03:20,238
 Left alone, it runs about eleven minutes longer than a day. Every morning, the light puts it right again.
 
 27
@@ -111,7 +111,7 @@ PIP: Remi! Will you watch me ride at the park? Six o’clock!
 REMI: Big day, Pip. Next time.
 
 29
-00:03:36,450 --> 00:03:39,225
+00:03:36,450 --> 00:03:39,250
 So she practised Monday.
 
 30
@@ -119,11 +119,11 @@ So she practised Monday.
 REMI: A bridge. No. A tower?
 
 31
-00:03:44,650 --> 00:03:52,850
+00:03:44,650 --> 00:03:52,626
 Once you know how something turns out, it feels as if you knew it all along. Psychologists call it hindsight bias.
 
 32
-00:03:52,850 --> 00:03:57,169
+00:03:52,850 --> 00:03:56,618
 Remi didn’t just feel it. She really did know.
 
 33
@@ -139,11 +139,11 @@ INTERVIEWER: Ms Hale, that’s the best answer I’ve heard all year. Come back 
 REMI: Yes! I mean, yes. Thank you.
 
 36
-00:04:32,450 --> 00:04:39,566
+00:04:32,450 --> 00:04:38,591
 The final round ran late. Remi didn’t look at the time. It was the perfect Monday.
 
 37
-00:04:40,250 --> 00:04:46,950
+00:04:40,250 --> 00:04:46,074
 At home, Pip had made her a good luck card. And Pip knew the way to the tram stop.
 
 38
@@ -151,11 +151,11 @@ At home, Pip had made her a good luck card. And Pip knew the way to the tram sto
 REMI: This is my fault. This is all my fault.
 
 39
-00:05:05,250 --> 00:05:12,159
+00:05:05,250 --> 00:05:11,899
 Pip would be all right, the doctors said. In time. But Remi still had turns left.
 
 40
-00:05:13,850 --> 00:05:18,058
+00:05:13,850 --> 00:05:17,747
 That night, she turned the knob with shaking hands.
 
 41
@@ -171,7 +171,7 @@ PIP: Okay, okay! I promise.
 REMI: Pick up. Pip, pick up.
 
 44
-00:05:39,050 --> 00:05:46,439
+00:05:39,050 --> 00:05:45,378
 Pip kept her promise. Until she saw the rain, and remembered her sister had no umbrella.
 
 45
@@ -187,11 +187,11 @@ WATCHMAKER: Because you keep the day you wanted, and only try to change the endi
 WATCHMAKER: A day isn’t a recording, miss. It’s a promise. You only get to choose who it’s for.
 
 48
-00:06:19,250 --> 00:06:29,050
+00:06:19,250 --> 00:06:28,650
 Every night, your brain replays the day by itself. In rats, scientists watched brain cells repeat the routes of the day while the animals slept.
 
 49
-00:06:29,050 --> 00:06:32,850
+00:06:28,650 --> 00:06:32,850
 Replaying is the easy part. Choosing is hard.
 
 50
@@ -247,7 +247,7 @@ PIP: You came!
 REMI: I’ll always come.
 
 63
-00:07:50,250 --> 00:07:55,596
+00:07:50,250 --> 00:07:54,658
 That night, Remi had one turn left. She didn’t take it.
 
 64
@@ -263,9 +263,9 @@ REMI: Tuesday.
 VOICEMAIL: Ms Hale, it’s Halden Architects. The director heard why you left. She’d like to meet you on Thursday.
 
 67
-00:08:41,650 --> 00:08:46,234
+00:08:41,650 --> 00:08:45,552
 Remi never turned the knob again. She didn’t need to.
 
 68
-00:08:46,650 --> 00:08:52,441
+00:08:46,650 --> 00:08:51,625
 You can’t rewind a day. But every morning, you get to choose who it’s for.
